@@ -1,1 +1,1 @@
-nohup hexo s > stdout.log 2>1& &
+nohup hexo s > stdout.log 2>&1 &
